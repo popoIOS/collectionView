@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  CustomCell.h
 //  WaterFlowDemo
 //
-//  Created by 薛豪东 on 2016/11/21.
+//  Created by xuehaodong on 2016/12/8.
 //  Copyright © 2016年 NJQY. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface CustomCell : UICollectionViewCell
 
 @end
-
